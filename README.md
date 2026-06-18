@@ -5,7 +5,7 @@
 هذه الداشبورد تم تصميمها لتحليل أداء الأصناف وقياس مرونة الطلب (Price Elasticity) لاتخاذ قرارات تسعير استراتيجية.
 
 ## 📸 Dashboard Preview
-![Pharmaceutical Sales Dashboard](product dashboard.jpg)*
+![Pharmaceutical Sales Dashboard](product dashboard.png)*
 
 ## 🚀 Key Features
 - **Price Elasticity Analysis:** تحليل الحساسية السعرية للأصناف.
