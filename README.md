@@ -1,16 +1,18 @@
-# product_analysis_on_contoso_data_set
-# produt Sales & Elasticity Analytics Dashboard
+# Retail Performance & Price Elasticity Dashboard
 
 ## 📊 Overview
-هذه الداشبورد تم تصميمها لتحليل أداء الأصناف وقياس مرونة الطلب (Price Elasticity) لاتخاذ قرارات تسعير استراتيجية.
+هذه الداشبورد مصممة لتحليل أداء المنتجات وقياس مرونة الطلب (Price Elasticity) لاتخاذ قرارات تسعير استراتيجية قائمة على البيانات.
 
 ## 📸 Dashboard Preview
-![product Sales Dashboard](product dashboard.png)*
+<img src="product dashboard.png" alt="Dashboard Preview" width="800"/>
 
 ## 🚀 Key Features
-- **Price Elasticity Analysis:** تحليل الحساسية السعرية للأصناف.
-- **Inventory Classification:** تصنيف ABC للمخزون.
-- **Interactive Filtering:** إمكانية الفلترة حسب الفئة والماركة.
+- **Price Elasticity Analysis:** تحليل الحساسية السعرية للمنتجات لتحديد نقاط السعر الأمثل.
+- **ABC Inventory Classification:** تصنيف المنتجات حسب حجم الحركة والأهمية.
+- **Interactive Filtering:** إمكانية الفلترة الديناميكية حسب الفئة والماركة.
 
 ## 🛠 Tools Used
 - **Power BI** | **DAX** | **Data Modeling**
+
+## 💡 Business Impact
+تم تطوير هذا التحليل لتمكين اتخاذ قرارات تسعيرية ذكية توازن بين حجم المبيعات وهوامش الربح، وتحديد المنتجات الأكثر تأثيراً في دورة حركة المبيعات.
